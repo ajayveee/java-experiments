@@ -1,4 +1,4 @@
-package com.ajay.java_experiments;
+package com.ajay.java;
 
 /**
  * Hello world!

@@ -1,4 +1,4 @@
-package com.ajay.java_experiments;
+package com.ajay.java;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
